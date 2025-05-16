@@ -1,6 +1,9 @@
 # tools
 各种好用工具相关的资源，包括操作系统，各种插件，绿色破解版工具等等，持续更新中
 
+// 20250516
+### 微信好友删除检测
+链接: https://pan.baidu.com/s/1dTTZeLShVKgN7dFdZ_m21Q?pwd=vc94 提取码: vc94
 
 ### 「Mac预览工具」
 链接：https://pan.quark.cn/s/85626f643fd9
