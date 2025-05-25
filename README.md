@@ -1,6 +1,15 @@
 # tools
 各种好用工具相关的资源，包括操作系统，各种插件，绿色破解版工具等等，持续更新中
 
+
+### 「tiktok国内手机如何开通」
+链接：https://pan.quark.cn/s/d0a38b4559c5
+
+### 「百度网盘每月领1T容量方法」
+链接：https://pan.quark.cn/s/48e66704a6b9
+
+
+
 ### 优秀的 Windows 应用列表，涵盖了文件管理、截图录屏、笔记应用、Markdown 编辑器、系统优化、终端工具、抓包工具、设计工具、摸鱼神器等等相关工具。
 链接： https://github.com/stackia/best-windows-apps
 
