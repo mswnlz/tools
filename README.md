@@ -1,6 +1,15 @@
 # tools
 各种好用工具相关的资源，包括操作系统，各种插件，绿色破解版工具等等，持续更新中
 
+### 「WPS办公PC端免会员版，多个历史版本」
+
+专业增强版内置序列号永久授权版/电信定制版 无广告，启动速度快，附带各种增值服务
+链接：https://pan.quark.cn/s/ac7c86399469
+链接：https://pan.quark.cn/s/b1a4c98a9af7
+
+### 「夸克网盘扩容全攻略 2025」
+链接：https://pan.quark.cn/s/efa3d1685e0f
+
 
 ### 「tiktok国内手机如何开通」
 链接：https://pan.quark.cn/s/d0a38b4559c5
