@@ -1,6 +1,19 @@
 # tools
 各种好用工具相关的资源，包括操作系统，各种插件，绿色破解版工具等等，持续更新中
 
+### 0成本用国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程
+https://s.869hr.uk/2hm
+
+### 「Adobe全家桶合集-MAC系统+Windows系统+教程」
+链接：https://pan.quark.cn/s/8df625cfe4fe
+
+### 「超小白从0开始学 Ps 教程 ABCD全系列全集 - 带课件素材」
+链接：https://pan.quark.cn/s/294e5ee51798
+
+
+### Win+Mac 破解资源 几个源头站
+飞书链接：https://emydaglj80.feishu.cn/docx/FDEvdgDMGojAy1xPiHtcyGPenvh?from=from_copylink     +v gxjdian获取密码
+
 ### 「WPS办公PC端免会员版，多个历史版本」
 
 专业增强版内置序列号永久授权版/电信定制版 无广告，启动速度快，附带各种增值服务
