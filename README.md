@@ -1,6 +1,12 @@
 # tools
 各种好用工具相关的资源，包括操作系统，各种插件，绿色破解版工具等等，持续更新中
 
+### 「个人整理最新4k超清壁纸 纯分享」
+链接：https://pan.quark.cn/s/a6287d78cc6b
+
+### 「本地AI配音软件 支持300+AI主播，可遇AI分享」
+链接：https://pan.quark.cn/s/c2633de28680
+
 ### 0成本用国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程
 https://s.869hr.uk/2hm
 
